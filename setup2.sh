@@ -1,1 +1,284 @@
-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
+#!/bin/bash
+#wget https://github.com/${GitUser}/
+GitUser="Internetvps"
+if [ "${EUID}" -ne 0 ]; then
+		echo "You need to run this script as root"
+		exit 1
+fi
+if [ "$(systemd-detect-virt)" == "openvz" ]; then
+		echo "OpenVZ is not supported"
+		exit 1
+fi
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+#IZIN SCRIPT
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo -e ""
+echo -e "\e[94m              .-----------------------------------------------.    "
+echo -e "\e[94m              |          Installing Autoscript Begin          |    "
+echo -e "\e[94m              '-----------------------------------------------'    "
+echo -e "\e[0m"
+echo ""
+sleep 1
+# Insert Password
+Password=panelvps
+# Execute
+read -p "Please Insert The License Key : " Passwordnya
+if [ $Password = $Passwordnya ]; then
+clear
+echo -e ""
+echo -e "${green}Permission Accepted...${NC}"
+echo ""
+echo "Thanks For Using This Autoscript-Lite By drgvpn"
+echo ""
+sleep 3
+else
+clear
+echo -e "${red}Permission Denied!${NC}";
+echo -e "${red}Please Insert The Correct License Key !${NC}"
+echo ""
+echo -e "Please Contact ${green}Admin${NC}"
+echo -e "Telegram : t.me/info_android9"
+rm -f setup2.sh
+exit 0
+fi
+clear
+echo -e "\e[32mloading...\e[0m"
+clear
+mkdir /var/lib/premium-script;
+default_email=$( curl https://raw.githubusercontent.com/${GitUser}/email/main/default.conf )
+clear
+#Nama penyedia script
+echo -e "\e[1;32m════════════════════════════════════════════════════════════\e[0m"
+echo ""
+echo -e "   \e[1;32mPlease enter the name of Provider for Script."
+read -p "   Name : " nm
+echo $nm > /root/provided
+echo ""
+#Email domain
+echo -e "\e[1;32m════════════════════════════════════════════════════════════\e[0m"
+echo -e ""
+echo -e "   \e[1;32mPlease enter your email Domain/Cloudflare."
+echo -e "   \e[1;31m(Press ENTER for default email)\e[0m"
+read -p "   Email : " email
+default=${default_email}
+new_email=$email
+if [[ $email == "" ]]; then
+sts=$default_email
+else
+sts=$new_email
+fi
+# email
+mkdir -p /usr/local/etc/xray/
+touch /usr/local/etc/xray/email
+echo $sts > /usr/local/etc/xray/email
+echo ""
+echo -e "\e[1;32m════════════════════════════════════════════════════════════\e[0m"
+echo ""
+echo -e "   .----------------------------------."
+echo -e "   |\e[1;32mPlease select a domain type below \e[0m|"
+echo -e "   '----------------------------------'"
+echo -e "     \e[1;32m1)\e[0m Enter your Subdomain"
+echo -e "     \e[1;32m2)\e[0m Use a random Subdomain"
+echo -e "   ------------------------------------"
+read -p "   Please select numbers 1-2 or Any Button(Random) : " host
+echo ""
+if [[ $host == "1" ]]; then
+echo -e "   \e[1;32mPlease enter your subdomain "
+read -p "   Subdomain: " host1
+echo "IP=" >> /var/lib/premium-script/ipvps.conf
+echo $host1 > /root/domain
+echo ""
+elif [[ $host == "2" ]]; then
+#install cf
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/cf.sh && chmod +x cf.sh && ./cf.sh
+rm -f /root/cf.sh
+clear
+else
+echo -e "Random Subdomain/Domain is used"
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/cf.sh && chmod +x cf.sh && ./cf.sh
+rm -f /root/cf.sh
+clear
+fi
+echo ""
+clear
+echo -e "\e[0;32mREADY FOR INSTALLATION SCRIPT...\e[0m"
+sleep 2
+#install ssh ovpn
+echo -e "\e[0;32mINSTALLING SSH & OVPN...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
+echo -e "\e[0;32mDONE INSTALLING SSH & OVPN\e[0m"
+clear
+#install ssr
+echo -e "\e[0;32mINSTALLING SS & SSR...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/ssr.sh && chmod +x ssr.sh && screen -S ssr ./ssr.sh
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/sodosok.sh && chmod +x sodosok.sh && screen -S ss ./sodosok.sh
+echo -e "\e[0;32mDONE INSTALLING SS & SSR\e[0m"
+clear
+#installwg
+echo -e "\e[0;32mINSTALLING WIREGUARD...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/wg.sh && chmod +x wg.sh && screen -S wg ./wg.sh
+echo -e "\e[0;32mDONE INSTALLING WIREGUARD\e[0m"
+clear
+#install Xray
+echo -e "\e[0;32mINSTALLING XRAY CORE...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/ins-xray.sh && chmod +x ins-xray.sh && screen -S ins-xray ./ins-xray.sh
+echo -e "\e[0;32mDONE INSTALLING XRAY CORE\e[0m"
+clear
+#install Trojan GO
+echo -e "\e[0;32mINSTALLING TROJAN GO...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/trojan-go.sh && chmod +x trojan-go.sh && screen -S trojan-go ./trojan-go.sh
+echo -e "\e[0;32mDONE INSTALLING TROJAN GO\e[0m"
+clear
+#install SET-BR
+echo -e "\e[0;32mINSTALLING SET-BR...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+echo -e "\e[0;32mDONE INSTALLING SET-BR...\e[0m"
+clear
+#install ohp-server
+echo -e "\e[0;32mINSTALLING OHP PORT...\e[0m"
+sleep 1
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/ohp.sh && chmod +x ohp.sh && ./ohp.sh
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/ohp-dropbear.sh && chmod +x ohp-dropbear.sh && ./ohp-dropbear.sh
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/install/ohp-ssh.sh && chmod +x ohp-ssh.sh && ./ohp-ssh.sh
+echo -e "\e[0;32mDONE INSTALLING OHP PORT\e[0m"
+clear
+#install websocket
+echo -e "\e[0;32mINSTALLING WEBSOCKET PORT...\e[0m"
+wget https://raw.githubusercontent.com/${GitUser}/i-code/main/websocket-python/websocket.sh && chmod +x websocket.sh && screen -S websocket.sh ./websocket.sh
+echo -e "\e[0;32mDONE INSTALLING WEBSOCKET PORT\e[0m"
+clear
+# set time GMT +8
+ln -fs /usr/share/zoneinfo/Asia/Kuala_Lumpur /etc/localtime
+# install clouflare JQ
+apt install jq curl -y
+# install webserver
+apt -y install nginx
+cd
+rm /etc/nginx/sites-enabled/default
+rm /etc/nginx/sites-available/default
+wget -O /etc/nginx/nginx.conf "https://raw.githubusercontent.com/${GitUser}/i-code/main/nginx.conf"
+mkdir -p /home/vps/public_html
+wget -O /etc/nginx/conf.d/vps.conf "https://raw.githubusercontent.com/${GitUser}/i-code/main/vps.conf"
+/etc/init.d/nginx restart
+#finish
+rm -f /root/ssh-vpn.sh
+rm -f /root/wg.sh
+rm -f /root/ss.sh
+rm -f /root/ssr.sh
+rm -f /root/ins-xray.sh
+rm -f /root/trojan-go.sh
+rm -f /root/set-br.sh
+rm -f /root/ohp.sh
+rm -f /root/ohp-dropbear.sh
+rm -f /root/ohp-ssh.sh
+rm -f /root/websocket.sh
+# Colour Default
+echo "1;36m" > /etc/banner
+echo "30m" > /etc/box
+echo "1;31m" > /etc/line
+echo "1;32m" > /etc/text
+echo "1;33m" > /etc/below
+echo "47m" > /etc/back
+echo "1;35m" > /etc/number
+echo 3d > /usr/bin/test
+# Version
+ver=$( curl https://raw.githubusercontent.com/${GitUser}/version-t/main/version.conf )
+history -c
+echo "$ver" > /home/ver
+clear
+echo " "
+echo "Installation has been completed!!"
+echo " "
+echo "=========================[SCRIPT PREMIUM]========================" | tee -a log-install.txt
+echo "" | tee -a log-install.txt
+echo "-----------------------------------------------------------------" | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "   >>> Service & Port"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI SSH & OpenVPN]" | tee -a log-install.txt
+echo "    -------------------------" | tee -a log-install.txt
+echo "   - OpenSSH                 : 22"  | tee -a log-install.txt
+echo "   - OpenVPN                 : TCP 1194, UDP 2200"  | tee -a log-install.txt
+echo "   - OpenVPN SSL             : 110"  | tee -a log-install.txt
+echo "   - Stunnel4                : 222, 777"  | tee -a log-install.txt
+echo "   - Dropbear                : 442, 109"  | tee -a log-install.txt
+echo "   - OHP Dropbear            : 8585"  | tee -a log-install.txt
+echo "   - OHP SSH                 : 8686"  | tee -a log-install.txt
+echo "   - OHP OpenVPN             : 8787"  | tee -a log-install.txt
+echo "   - Websocket SSH(HTTP)     : 2081"  | tee -a log-install.txt
+echo "   - Websocket SSL(HTTPS)    : 222"  | tee -a log-install.txt
+echo "   - Websocket OpenVPN       : 2084"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI Sqd, Bdvp, Ngnx]" | tee -a log-install.txt
+echo "    ---------------------------" | tee -a log-install.txt
+echo "   - Squid Proxy             : 3128, 8000 (limit to IP Server)"  | tee -a log-install.txt
+echo "   - Badvpn                  : 7100, 7200, 7300"  | tee -a log-install.txt
+echo "   - Nginx                   : 81"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI WG]"  | tee -a log-install.txt
+echo "    --------------" | tee -a log-install.txt
+echo "   - Wireguard               : 5820"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI Shadowsocks-R & Shadowsocks]"  | tee -a log-install.txt
+echo "    ---------------------------------------" | tee -a log-install.txt
+echo "   - Shadowsocks-R           : 1443-1543"  | tee -a log-install.txt
+echo "   - SS-OBFS TLS             : 2443-2543"  | tee -a log-install.txt
+echo "   - SS-OBFS HTTP            : 3443-3543"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI XRAY]" | tee -a log-install.txt
+echo "    ----------------" | tee -a log-install.txt
+echo "   - Xray Vmess Ws Tls       : 443"  | tee -a log-install.txt
+echo "   - Xray Vless Ws Tls       : 443"  | tee -a log-install.txt
+echo "   - Xray Vless Xtls         : 443"  | tee -a log-install.txt
+echo "   - Xray Vmess Ws None Tls  : 80"  | tee -a log-install.txt
+echo "   - Xray Vless Ws None Tls  : 8080"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI TROJAN]" | tee -a log-install.txt
+echo "    ------------------" | tee -a log-install.txt
+echo "   - Xray Trojan Ws Tls      : 443"  | tee -a log-install.txt
+echo "   - Xray Trojan Ws None Tls : 8880"  | tee -a log-install.txt
+echo "   - Trojan Go               : 8443"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "    [INFORMASI CLASH FOR ANDROID (YAML)]" | tee -a log-install.txt
+echo "    ------------------------------------" | tee -a log-install.txt
+echo "   - Shadowsocks Yaml        : Yes"  | tee -a log-install.txt
+echo "   - ShadowsocksR Yaml       : Yes"  | tee -a log-install.txt
+echo "   - Xray-Vmess Ws Yaml      : Yes"  | tee -a log-install.txt
+echo "   - Xray-Vless Ws Yaml      : Yes"  | tee -a log-install.txt
+echo "   - Xray-Trojan Ws Yaml     : Yes"  | tee -a log-install.txt
+echo "   --------------------------------------------------------------" | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo "   >>> Server Information & Other Features"  | tee -a log-install.txt
+echo "   - Timezone                : Asia/Kuala_Lumpur (GMT +8)"  | tee -a log-install.txt
+echo "   - Fail2Ban                : [ON]"  | tee -a log-install.txt
+echo "   - Dflate                  : [ON]"  | tee -a log-install.txt
+echo "   - IPtables                : [ON]"  | tee -a log-install.txt
+echo "   - Auto-Reboot             : [ON]"  | tee -a log-install.txt
+echo "   - IPv6                    : [OFF]"  | tee -a log-install.txt
+echo "   - Autoreboot On 05.00 GMT +8" | tee -a log-install.txt
+echo "   - Autobackup Data" | tee -a log-install.txt
+echo "   - Restore Data" | tee -a log-install.txt
+echo "   - Auto Delete Expired Account" | tee -a log-install.txt
+echo "   - Full Orders For Various Services" | tee -a log-install.txt
+echo "   - White Label" | tee -a log-install.txt
+echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
+echo "------------------------Script By drgvpn---------------------" | tee -a log-install.txt
+clear
+echo ""
+echo ""
+echo -e "    \e[1;32m.------------------------------------------.\e[0m"
+echo -e "    \e[1;32m|     SUCCESFULLY INSTALLED THE SCRIPT     |\e[0m"
+echo -e "    \e[1;32m'------------------------------------------'\e[0m"
+echo ""
+echo -e "   \e[1;32mYour VPS Will Be Automatical Reboot In 5 seconds\e[0m"
+rm -r setup2.sh
+sleep 5
+reboot

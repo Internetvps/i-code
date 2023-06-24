@@ -10,7 +10,7 @@ GREEN='\e[0;32m'
 BLUE='\e[0;34m'
 NC='\e[0m'
 version=$(cat /home/ver)
-ver=$( curl https://raw.githubusercontent.com/${GitUser}/internetvps/i-code/main/version.conf )
+ver=$( curl https://raw.githubusercontent.com/${GitUser}/i-code/main/version.conf )
 clear
 # CEK UPDATE
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
@@ -18,7 +18,7 @@ Info1="${Green_font_prefix}[$version]${Font_color_suffix}"
 Info2="${Green_font_prefix}[LATEST VERSION]${Font_color_suffix}"
 Error="Version ${Green_font_prefix}[$ver]${Font_color_suffix} available${Red_font_prefix}[Please Update]${Font_color_suffix}"
 version=$(cat /home/ver)
-new_version=$( curl https://raw.githubusercontent.com/${GitUser}/internetvps/i-code/main/version.conf | grep $version )
+new_version=$( curl https://raw.githubusercontent.com/${GitUser}/i-code/main/version.conf | grep $version )
 #Status Version
 if [ $version = $new_version ]; then
 sts="${Info2}"

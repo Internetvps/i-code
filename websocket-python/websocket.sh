@@ -6,30 +6,29 @@ echo Sila Tunggu Sebentar...
 sleep 0.5
 cd
 #Buat name user github dan nama folder
-GitUser="Internetvps"
+GitUser="Hazzuan1984"
 namafolder="websocket-python"
-#wget https://github.com/internetvps/main/i-code/
-After=network.target nss-lookup.target
+#wget https://github.com/${GitUser}/main/${namafolder}/
 
 #System Websocket
 cd
 cd /etc/systemd/system/
-wget -O /etc/systemd/system/cdn-ssl.service https://raw.githubusercontent.com/internetvps/i-code/main/cdn-ssl.service
+wget -O /etc/systemd/system/cdn-ssl.service https://raw.githubusercontent.com/${GitUser}/t-code/main/${namafolder}/cdn-ssl.service
 #System Websocket-Ovpn Service
 cd /etc/systemd/system/
-wget -O /etc/systemd/system/cdn-ovpn.service https://raw.githubusercontent.com/internetvps/i-code/main/cdn-ovpn.service
+wget -O /etc/systemd/system/cdn-ovpn.service https://raw.githubusercontent.com/${GitUser}/t-code/main/${namafolder}/cdn-ovpn.service
 #System Websocket-Dropbear Service
 cd /etc/systemd/system/
-wget -O /etc/systemd/system/cdn-dropbear.service https://raw.githubusercontent.com/internetvps/i-code/main/cdn-dropbear.service
+wget -O /etc/systemd/system/cdn-dropbear.service https://raw.githubusercontent.com/${GitUser}/t-code/main/${namafolder}/cdn-dropbear.service
 
 #Install WS-SSL
-wget -q -O /usr/local/bin/cdn-ssl https://raw.githubusercontent.com/internetvps/i-code/main/cdn-ssl.py
+wget -q -O /usr/local/bin/cdn-ssl https://raw.githubusercontent.com/${GitUser}/t-code/main/${namafolder}/cdn-ssl.py
 chmod +x /usr/local/bin/cdn-ssl
 #Install WS-OpenVPN
-wget -q -O /usr/local/bin/cdn-ovpn https://raw.githubusercontent.com/internetvps/i-code/main/cdn-ovpn.py
+wget -q -O /usr/local/bin/cdn-ovpn https://raw.githubusercontent.com/${GitUser}/t-code/main/${namafolder}/cdn-ovpn.py
 chmod +x /usr/local/bin/cdn-ovpn
 #Install WS-Dropbear
-wget -q -O /usr/local/bin/cdn-dropbear https://raw.githubusercontent.com/internetvps/i-code/main/cdn-dropbear.py
+wget -q -O /usr/local/bin/cdn-dropbear https://raw.githubusercontent.com/${GitUser}/t-code/main/${namafolder}/cdn-dropbear.py
 chmod +x /usr/local/bin/cdn-dropbear
 
 #Enable & Start & Restart ws-stunnel service

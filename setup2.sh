@@ -39,7 +39,7 @@ echo -e "${red}Permission Denied!${NC}";
 echo -e "${red}Please Insert The Correct License Key !${NC}"
 echo ""
 echo -e "Please Contact ${green}Admin${NC}"
-echo -e "Telegram : t.me/info_android9"
+echo -e "Telegram : t.me/drg_vpn"
 rm -f setup2.sh
 exit 0
 fi

@@ -30,7 +30,7 @@ clear
 echo ""
 echo ".----------------------------------------------." | lolcat
 echo "|                CHECK NEW UPDATE              |" | lolcat
-echo "|                Script BY comingsoon              |" | lolcat
+echo "|                Script BY DRGVPN              |" | lolcat
 echo "'----------------------------------------------'" | lolcat
 echo -e " \e[0;36mVERSION NOW \e[0;33m>>\e[0m $Info1"
 echo -e " \e[0;36mSTATUS UPDATE \e[0;33m>>\e[0m $sts"
@@ -70,7 +70,7 @@ sleep 2
 echo -e "\e[1;36mStart Update For New Version, Please Wait..\e[m"
 sleep 2
 clear
-echo -e "\e[0;32mGetting New Version Script By comingsoon...\e[0m"
+echo -e "\e[0;32mGetting New Version Script By drgvpn...\e[0m"
 sleep 1
 echo ""
 # UPDATE RUN-UPDATE

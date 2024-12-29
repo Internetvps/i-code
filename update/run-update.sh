@@ -1,6 +1,6 @@
 #!/bin/bash
-#wget https://github.com/internetvps/
-GitUser="Internetvps"
+#wget https://github.com/${GitUser}/
+GitUser="Hazzuan1984"
 if [ "${EUID}" -ne 0 ]; then
 		echo "You need to run this script as root"
 		exit 1
@@ -11,7 +11,7 @@ if [ "$(systemd-detect-virt)" == "openvz" ]; then
 fi
 echo ""
 version=$(cat /home/ver)
-ver=$( curl https://raw.githubusercontent.com/internetvps/version-t/main/version.conf )
+ver=$( curl https://raw.githubusercontent.com/${GitUser}/version-t/main/version.conf )
 clear
 # CEK UPDATE
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
@@ -19,7 +19,7 @@ Info1="${Green_font_prefix}[$version]${Font_color_suffix}"
 Info2="${Green_font_prefix}[LATEST VERSION]${Font_color_suffix}"
 Error="Version ${Green_font_prefix}[$ver]${Font_color_suffix} available${Red_font_prefix}[Please Update]${Font_color_suffix}"
 version=$(cat /home/ver)
-new_version=$( curl https://raw.githubusercontent.com/internetvps/version-t/main/version.conf | grep $version )
+new_version=$( curl https://raw.githubusercontent.com/${GitUser}/version-t/main/version.conf | grep $version )
 #Status Version
 if [ $version = $new_version ]; then
 sts="${Info2}"
@@ -30,7 +30,7 @@ clear
 echo ""
 echo ".----------------------------------------------." | lolcat
 echo "|                CHECK NEW UPDATE              |" | lolcat
-echo "|                Script BY drgvpn              |" | lolcat
+echo "|                Script BY comingsoon              |" | lolcat
 echo "'----------------------------------------------'" | lolcat
 echo -e " \e[0;36mVERSION NOW \e[0;33m>>\e[0m $Info1"
 echo -e " \e[0;36mSTATUS UPDATE \e[0;33m>>\e[0m $sts"
@@ -47,7 +47,7 @@ read -p "Please Choose 1 or x & y : " option2
 case $option2 in
 1)
 version=$(cat /home/ver)
-new_version=$( curl https://raw.githubusercontent.com/internetvps/version-t/main/version.conf | grep $version )
+new_version=$( curl https://raw.githubusercontent.com/${GitUser}/version-t/main/version.conf | grep $version )
 if [ $version = $new_version ]; then
 clear
 echo ""
@@ -70,12 +70,12 @@ sleep 2
 echo -e "\e[1;36mStart Update For New Version, Please Wait..\e[m"
 sleep 2
 clear
-echo -e "\e[0;32mGetting New Version Script By drgvpn...\e[0m"
+echo -e "\e[0;32mGetting New Version Script By comingsoon...\e[0m"
 sleep 1
 echo ""
 # UPDATE RUN-UPDATE
 cd /usr/bin
-wget -O run-update "https://raw.githubusercontent.com/internetvps/i-code/main/update/run-update.sh"
+wget -O run-update "https://raw.githubusercontent.com/${GitUser}/t-code/main/update/run-update.sh"
 chmod +x run-update
 # RUN UPDATE
 echo ""
@@ -87,10 +87,10 @@ echo ""
 echo -e "\e[0;32mNew Version Downloading started!\e[0m"
 sleep 2
 cd /usr/bin
-wget -O update "https://raw.githubusercontent.com/internetvps/i-code/main/update/update.sh"
-wget -O bannermenu "https://raw.githubusercontent.com/internetvps/i-code/main/update/bannermenu.sh"
-wget -O change-port "https://raw.githubusercontent.com/internetvps/i-code/main/change.sh"
-wget -O add-ws "https://raw.githubusercontent.com/internetvps/i-code/main/add-user/add-ws.sh"
+wget -O update "https://raw.githubusercontent.com/${GitUser}/t-code/main/update/update.sh"
+wget -O bannermenu "https://raw.githubusercontent.com/${GitUser}/t-code/main/update/bannermenu.sh"
+wget -O change-port "https://raw.githubusercontent.com/${GitUser}/t-code/main/change.sh"
+wget -O add-ws "https://raw.githubusercontent.com/${GitUser}/t-code/main/add-user/add-ws.sh"
 chmod +x update
 chmod +x bannermenu
 chmod +x change-port
@@ -99,7 +99,7 @@ clear
 echo -e ""
 echo -e "\e[0;32mDownloaded successfully!\e[0m"
 echo ""
-ver=$( curl https://raw.githubusercontent.com/internetvps/version-t/main/version.conf )
+ver=$( curl https://raw.githubusercontent.com/${GitUser}/version-t/main/version.conf )
 sleep 1
 echo -e "\e[0;32mPatching New Update, Please Wait...\e[0m"
 echo ""

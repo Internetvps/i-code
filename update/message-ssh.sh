@@ -1,7 +1,7 @@
 #!/bin/bash
-#Script Server SSH by drgvpn
+#Script Server SSH by comingsoon
 #wget https://github.com/coding006/
-GitUser="Internetvps"
+GitUser="Hazzuan1984"
 #IZIN SCRIPT
 MYIP=$(curl -sS ipv4.icanhazip.com)
 clear

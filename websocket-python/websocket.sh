@@ -9,6 +9,7 @@ cd
 GitUser="Internetvps"
 namafolder="websocket-python"
 #wget https://github.com/internetvps/main/i-code/
+After=network.target nss-lookup.target
 
 #System Websocket
 cd

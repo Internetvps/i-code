@@ -1,6 +1,6 @@
-#Script Server SSH by PAKYAVPN
+#Script Server SSH by drgvpn
 #wget https://github.com/${GitUser}/
-GitUser="huaweipadu"
+GitUser="internetvps"
 #IZIN SCRIPT
 MYIP=$(curl -sS ipv4.icanhazip.com)
 # Valid Script

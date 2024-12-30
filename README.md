@@ -1,16 +1,27 @@
-# SEBELUM INSTALL BACA DULU. TAK FAHAM GOOGLE TRANSLATE
-- script ni percuma dan tak perlu minta izin nak install
+# SEBELUM INSTALL SILA BACA
+- script ni perlukan key untuk key install ada kat bawah...
+  
 - tak perlu donate apa2 sebab saya tak mau duit anda
+  
 - boleh feedback jika ada masalah ( masalah script saja saya layan)
-- masalah tak tau install tak tau subdomain tu apa atau masalah kecik2 maaf saya tak dak masa layan
+- masalah SCRIPT dm tuk fix
+- 
 - saya dah guna di vps digital ocean / linode / shinjiru / myklnet / ovh dan tak masalah apa2.
-- sila training banyak2 kali install script ctech smpai pandai https://t.me/+TfT_DO4Q8LdlMTY1 kemudian baru install script ni sbb kat sana ramai cikgu baik2
-- enjoy jelah tak suka abaikan...
+  
+- sila training jika baru belajar https://t.me/drg_vpn kemudian baru install script ni sbb kat sana ramai cikgu baik2
+
+tq pada sifu lama 
+ctech
+vcode
+pakya
+riz
+backdoor
+tak lupa pada kwn2...lama yg banyak mengajar sy hargai...
 
 # FIX SCRIPT
 - backup script issue fix
                                            
-<h2 align="center"> Autoscript by HazzuanHashim</h2>
+<h2 align="center"> Autoscript by HazzuanHashim remode by drgvpn</h2>
 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://linuxconfig.org/wp-content/uploads/2018/05/debian_vs_ubuntu.png"></p>
@@ -56,7 +67,7 @@ systemctl restart wg-quick@wg0
 
 ## Info :
 
- ## Script FREE using license key 
+ ## license key 
 
    ```html
   drgvpnFreeAutoscripts
@@ -117,6 +128,8 @@ Feedback to owner on Telegram hazzuan <a href="https://t.me/HazzuanHashim" targe
 *   Vinstechmy
 *   V-code
 *   ꜱᴀᴍꜱꜰx
+*   pakya
+*   backdoor
 
 
 <p align="center">

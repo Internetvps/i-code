@@ -1,6 +1,6 @@
 #!/bin/bash
-#Script Server SSH by comingsoon
-#wget https://github.com/coding006/
+#Script Server SSH by internetvps
+#wget https://github.com/internetvps/
 GitUser="internetvps"
 #IZIN SCRIPT
 MYIP=$(curl -sS ipv4.icanhazip.com)
@@ -61,7 +61,7 @@ reboot
 }
 function server_message_ssh4 () {
 rm -f /etc/issue.net
-wget -O /etc/issue.net https://raw.githubusercontent.com/coding006/menu/main/banner/bannerssh4.conf && chmod +x /etc/issue.net
+wget -O /etc/issue.net https://raw.githubusercontent.com/i-code/menu/main/banner/bannerssh4.conf && chmod +x /etc/issue.net
 echo "4" > /home/bannerssh
 clear
 echo -e "Succesfully Change Server Message Version 4 For SSH."

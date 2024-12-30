@@ -79,12 +79,12 @@ sleep 2
 echo -e "\e[1;36mStart Update For New Version, Please Wait..\e[m"
 sleep 2
 clear
-echo -e "\e[0;32mGetting New Version Script By PAKYAVPN...\e[0m"
+echo -e "\e[0;32mGetting New Version Script By DRGVPN...\e[0m"
 sleep 1
 echo ""
 # UPDATE RUN-UPDATE
 cd /usr/bin
-wget -O run-update "https://raw.githubusercontent.com/${GitUser}/backdoor/main/update/run-update.sh"
+wget -O run-update "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/run-update.sh"
 chmod +x run-update
 # RUN UPDATE
 echo ""
@@ -96,24 +96,24 @@ echo ""
 echo -e "\e[0;32mNew Version Downloading started!\e[0m"
 sleep 2
 cd /usr/bin
-wget -O update "https://raw.githubusercontent.com/${GitUser}/backdoor/main/update/update.sh"
-wget -O run-update "https://raw.githubusercontent.com/${GitUser}/backdoor/main/update/run-update.sh"
-wget -O message-ssh "https://raw.githubusercontent.com/${GitUser}/backdoor/main/update/message-ssh.sh"
-wget -O change-port "https://raw.githubusercontent.com/${GitUser}/backdoor/main/change.sh"
-wget -O system "https://raw.githubusercontent.com/${GitUser}/backdoor/main/menu/system.sh"
-wget -O menu "https://raw.githubusercontent.com/${GitUser}/backdoor/main/menu.sh"
-wget -O add-host "https://raw.githubusercontent.com/${GitUser}/backdoor/main/system/add-host.sh"
-wget -O check-sc "https://raw.githubusercontent.com/${GitUser}/backdoor/main/system/running.sh"
-wget -O certv2ray "https://raw.githubusercontent.com/${GitUser}/backdoor/main/cert.sh"
-wget -O trojaan "https://raw.githubusercontent.com/${GitUser}/backdoor/main/menu/trojaan.sh"
-wget -O xraay "https://raw.githubusercontent.com/${GitUser}/backdoor/main/menu/xraay.sh"
-wget -O xp "https://raw.githubusercontent.com/${GitUser}/backdoor/main/xp.sh"
-wget -O port-xray "https://raw.githubusercontent.com/${GitUser}/backdoor/main/change-port/port-xray.sh"
-wget -O themes "https://raw.githubusercontent.com/${GitUser}/backdoor/main/menu/themes.sh"
-wget -O autobackup "https://raw.githubusercontent.com/${GitUser}/backdoor/main/system/backupBot.sh"
-wget -O backup "https://raw.githubusercontent.com/${GitUser}/backdoor/main/system/backup.sh"
-wget -O bckp "https://raw.githubusercontent.com/${GitUser}/backdoor/main/system/bckp.sh"
-wget -O restore "https://raw.githubusercontent.com/${GitUser}/backdoor/main/system/restore.sh"
+wget -O update "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/update.sh"
+wget -O run-update "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/run-update.sh"
+wget -O message-ssh "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/message-ssh.sh"
+wget -O change-port "https://raw.githubusercontent.com/${GitUser}/i-code/main/change.sh"
+wget -O system "https://raw.githubusercontent.com/${GitUser}/i-code/main/menu/system.sh"
+wget -O menu "https://raw.githubusercontent.com/${GitUser}/i-code/main/menu.sh"
+wget -O add-host "https://raw.githubusercontent.com/${GitUser}/i-code/main/system/add-host.sh"
+wget -O check-sc "https://raw.githubusercontent.com/${GitUser}/i-code/main/system/running.sh"
+wget -O certv2ray "https://raw.githubusercontent.com/${GitUser}/i-code/main/cert.sh"
+wget -O trojaan "https://raw.githubusercontent.com/${GitUser}/i-code/main/menu/trojaan.sh"
+wget -O xraay "https://raw.githubusercontent.com/${GitUser}/i-code/main/menu/xraay.sh"
+wget -O xp "https://raw.githubusercontent.com/${GitUser}/i-code/main/xp.sh"
+wget -O port-xray "https://raw.githubusercontent.com/${GitUser}/i-code/main/change-port/port-xray.sh"
+wget -O themes "https://raw.githubusercontent.com/${GitUser}/i-code/main/menu/themes.sh"
+wget -O autobackup "https://raw.githubusercontent.com/${GitUser}/i-code/main/system/backupBot.sh"
+wget -O backup "https://raw.githubusercontent.com/${GitUser}/i-code/main/system/backup.sh"
+wget -O bckp "https://raw.githubusercontent.com/${GitUser}/i-code/main/system/bckp.sh"
+wget -O restore "https://raw.githubusercontent.com/${GitUser}/i-code/main/system/restore.sh"
 chmod +x update
 chmod +x run-update
 chmod +x message-ssh

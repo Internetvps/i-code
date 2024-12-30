@@ -75,7 +75,7 @@ sleep 1
 echo ""
 # UPDATE RUN-UPDATE
 cd /usr/bin
-wget -O run-update "https://raw.githubusercontent.com/${GitUser}/t-code/main/update/run-update.sh"
+wget -O run-update "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/run-update.sh"
 chmod +x run-update
 # RUN UPDATE
 echo ""
@@ -87,10 +87,10 @@ echo ""
 echo -e "\e[0;32mNew Version Downloading started!\e[0m"
 sleep 2
 cd /usr/bin
-wget -O update "https://raw.githubusercontent.com/${GitUser}/t-code/main/update/update.sh"
-wget -O bannermenu "https://raw.githubusercontent.com/${GitUser}/t-code/main/update/bannermenu.sh"
-wget -O change-port "https://raw.githubusercontent.com/${GitUser}/t-code/main/change.sh"
-wget -O add-ws "https://raw.githubusercontent.com/${GitUser}/t-code/main/add-user/add-ws.sh"
+wget -O update "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/update.sh"
+wget -O bannermenu "https://raw.githubusercontent.com/${GitUser}/i-code/main/update/bannermenu.sh"
+wget -O change-port "https://raw.githubusercontent.com/${GitUser}/i-code/main/change.sh"
+wget -O add-ws "https://raw.githubusercontent.com/${GitUser}/i-code/main/add-user/add-ws.sh"
 chmod +x update
 chmod +x bannermenu
 chmod +x change-port
